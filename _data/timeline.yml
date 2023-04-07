@@ -17,8 +17,8 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Roma Tre
-  title-url: https://example.com/
+- title: Università degli Studi Roma Tre
+  title-url: https://www.uniroma3.it/
   date: 2019 - 2023
-  subtitle: Ing inf
+  subtitle: Ingegneria informatica
   timeline-side: left
