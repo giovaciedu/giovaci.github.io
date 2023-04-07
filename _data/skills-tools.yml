@@ -6,31 +6,10 @@
 #   weight: 5
 
 - name: Git
-  weight: 4
+  weight: 5
 
 - name: Bash
   weight: 2
 
 - name: VS Code
   weight: 5
-  
-- name: SQL
-  weight: 3
-  
-- name: EC2 AWS
-  weight: 5
-  
-- name: Filezilla
-  weight: 4
-
-- name: Putty
-  weight: 4
-
-- name: Unity
-  weight: 3
-
-- name: DaVinci Resolve 18
-  weight: 3
-  
-- name: Valve Hammer Editor 
- weight: 3
