@@ -32,7 +32,7 @@ twitter_username: giovacitwit
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Su di me
+about_me_title: Introduzione
 # about_me_description: This will be displayed under the title.
 about_me_description: Studente di Ingegneria Informatica presso Università degli Studi di Roma Tre,possessore di ECDL, patente B, utilizzo EC2 di Amazon Web Services per monitoraggio. Conosco C, C#, Java, Python, SQL, HTML+CSS (applicazioni via Spring boot + pgadmin).
 
